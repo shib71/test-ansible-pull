@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: *
   
   vars:
     http_port: 34567
