@@ -1,5 +1,5 @@
 ---
-- hosts: Base
+- hosts: localhost
   
   vars:
     http_port: 34567
